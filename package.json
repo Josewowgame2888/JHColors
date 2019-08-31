@@ -1,6 +1,6 @@
 {
   "name": "jhcolors",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Add color in the console",
   "main": "TerminalColor",
   "scripts": {
