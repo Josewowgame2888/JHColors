@@ -1,3 +1,17 @@
+
+/*
+   __          ___   ___  __    ___  __  __    
+   \ \  /\  /\/ __\ /___\/ /   /___\/__\/ _\   
+    \ \/ /_/ / /   //  // /   //  // \//\ \    
+ /\_/ / __  / /___/ \_// /___/ \_// _  \_\ \   
+ \___/\/ /_/\____/\___/\____/\___/\/ \_/\__/   
+
+
+GitHub: https://github.com/Josewowgame2888
+Twitter: https://twitter.com/Josewowgame
+*/
+
+
 const ConsoleColors = {};
 ConsoleColors.ESCAPE        = "\u001b";
 ConsoleColors.BLACK         = ConsoleColors.ESCAPE + "[30m";
