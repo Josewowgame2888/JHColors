@@ -31,3 +31,7 @@ const Colors = require('jhcolors');
 
 console.log(Colors.RED+'Hello world!'+Colors.RESET);
 ```
+# Social
+- `Twitter` - https://twitter.com/Josewowgame
+
+
