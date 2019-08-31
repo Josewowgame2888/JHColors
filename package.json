@@ -2,7 +2,7 @@
   "name": "jhcolors",
   "version": "1.0.6",
   "description": "Add color in the console",
-  "main": "Colors",
+  "main": "TerminalColor",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
