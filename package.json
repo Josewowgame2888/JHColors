@@ -1,0 +1,19 @@
+{
+  "name": "jhcolors",
+  "version": "1.0.5",
+  "description": "Add color in the console",
+  "main": "TextFormat",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josewowgame2888/JHColors.git"
+  },
+  "author": "Josewowgame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josewowgame2888/JHColors/issues"
+  },
+  "homepage": "https://github.com/Josewowgame2888/JHColors#readme"
+}
